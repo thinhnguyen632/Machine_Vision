@@ -1,0 +1,3 @@
+RETR_EXTERNAL -> trả về contour lớp ngoài cùng
+RETR_LIST -> trả về tất cả contour mà không trả về các mỗi liên hệ giữa các contour
+RETR_TREE -> trả về tất cả contour + các mối liên hệ giữa các contour
